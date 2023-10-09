@@ -35,5 +35,4 @@ shoot: h
 
 # Showcase
 
-![Player](sprite.png)
 ![Game](game.png)
