@@ -32,3 +32,8 @@ shoot: q
 movement: g, j
 jump: y
 shoot: h
+
+# Showcase
+
+[Player](sprite.png)
+[Game](game.png)
