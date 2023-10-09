@@ -57,7 +57,7 @@ class World extends Scene
       Console.enabled = !Console.enabled;
     }
 
-    if(Key.check(Key.R)) {
+    if(Key.pressed(Key.R)) {
       HXP.scene = new World();
       return;
     } 
