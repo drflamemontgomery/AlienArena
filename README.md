@@ -11,7 +11,6 @@ lime build linux
 lime build windows
 lime build mac
 lime build html5 # The web build is slow and runs at 30fps
-lime build flash # Flash is deprecated but runs better than html5
 ```
 
 # Controls
