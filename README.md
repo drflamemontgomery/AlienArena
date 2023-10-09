@@ -2,6 +2,18 @@
 
 This Game was created by my brother and I 10 years ago using the HaxePunk Game Engine
 
+# Compilation
+
+This Game uses the lime utility for building
+
+```bash
+lime build linux
+lime build windows
+lime build mac
+lime build html5 # The web build is slow and runs at 30fps
+lime build flash # Flash is deprecated but runs better than html5
+```
+
 # Controls
 
 ## Player 1
