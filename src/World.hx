@@ -53,7 +53,7 @@ class World extends Scene
 
   override public function update() : Void {
     super.update();
-    if(Key.check(Key.TILDE)) {
+    if(Key.pressed(Key.TILDE)) {
       Console.enabled = !Console.enabled;
     }
 
